@@ -2,9 +2,8 @@
 layout: about
 ---
 
-These are controlled by `about.md` under the root directory. If you want a more diverse self-introduction, you can insert the markdown content you want here.
+I know you expect a lot from this page but I'm busy doing other things.
 
-### What's New
+Currently write docs for Chainlink, and build an NFT project.
 
-- One paper got accepted in xxx 2019.
-- I'm going to join xxx as a xxx 2019 Fall.
+Feel free to check my work [here]({{ site.baseurl }}{% link portfolio.md %}).
