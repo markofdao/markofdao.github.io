@@ -19,8 +19,10 @@ moving:
     github: dmitrydao
     rss: RSS 
 
-# Build settings
-theme: huangyz0918/moving
+# production github-pages
+remove_theme: huangyz0918/moving
+# local
+theme: moving
 
 plugins:
   - jekyll-feed
