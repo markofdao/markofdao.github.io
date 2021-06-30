@@ -20,9 +20,9 @@ moving:
     rss: RSS 
 
 # production github-pages
-remove_theme: huangyz0918/moving
+remote_theme: huangyz0918/moving
 # local
-theme: moving
+# theme: moving
 
 plugins:
   - jekyll-feed
