@@ -9,7 +9,7 @@ permalink: /:categories/:title
 google_analytics: UA-135506355-5
   
 moving:
-  avatar_url: "https://pbs.twimg.com/profile_images/1291515158003671042/9SXZv8GL_400x400.jpg"
+  avatar_url: "/assets/images/profile.png"
   about_you: Devs Code. I write.
   date_format: "%b %d"
   back_to: "Home"
@@ -21,7 +21,8 @@ moving:
 
 # production github-pages
 remote_theme: huangyz0918/moving
-# local
+
+# local testing
 # theme: moving
 
 plugins:
