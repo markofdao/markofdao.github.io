@@ -7,9 +7,9 @@ tags: [portfolio, tech-writing]
 ---
 
 ## Overview
-Devs code, I write. Have been doing this for 3 years and don't want to stop. Mostly write for blockchain products and companies because I believe they will win. 
+Devs code, I write. Have been doing this for 4 years and don't want to stop. Mostly write for blockchain products and companies because I believe they will win.
 
-Can handle tech posts, code samples, API docs, guides, tutorials, UX copy. I also run a Hive witness node and build apps for blockchain communities, which is a nice bonus.
+Can handle tech posts, code samples, API docs, guides, tutorials, UX copy. I used to manage a Hive validator node and develop apps for blockchain communities, which is a nice bonus.
 
 My recent projects are implemented via the `Docs-as-Code` methodology. Using this approach to documentation, I can receive and incorporate high-quality feedback from developers faster, as well as maintain the latest industry standards. 
 
@@ -22,23 +22,19 @@ https://github.com/dmitrydao
 ```
 
 ## Projects
-
 This is a list of my best work from companies I've worked with. It includes technical writing and front-end development samples. All of the files provided below are listed on my [GitHub](https://github.com/dmitrydao/dmitrydao.github.io/tree/master/assets/files/portfolio).
 
 ### Chainlink (2021)
 [Chainlink](https://chain.link) is a decentralized oracle network that provides reliable, tamper-proof inputs and outputs for complex smart contracts on any blockchain. Chainlink greatly expands smart contracts' capability by enabling access to real-world data, events, payments, and more without sacrificing the security and reliability guarantees inherent to blockchain technology.
 
-#### Code Samples
-- [Price Consumer](https://gist.github.com/dmitrydao/77a18ce80bb3f304d56aa9a2b00c0a78)
-- [Open Weather Consumer](https://gist.github.com/dmitrydao/e5f752fa134b49ef481da74ec1a453a6)
-- [Nasa Consumer](https://gist.github.com/dmitrydao/62c650fd82c093a219707d9d05aaab63)
-- [HttpPost](https://gist.github.com/dmitrydao/b8433a8bf387584b1d39f4876e2cd563)
-
 #### Tutorials
-- [Advanced Tutorial. API Calls]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/advanced.pdf %})
-- [Make an Existing Job Request]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/existing-job-request.pdf %})
-- [CipherTrace DeFi Compli Oracle]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/ciphertrace.pdf %})
-- [dxFeed Price Oracle]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/dx-feed.pdf %})
+- [API Calls Tutorial]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/api-calls.pdf %})
+- [VRF Best Practices]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/vrf-best.pdf %})
+- [L2 Sequencer Health Flag]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/health-flag.pdf %})
+- [Make an Existing Job Request]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/job-requests.pdf %})
+- [Register Keeper Upkeep for a Contract]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/register-upkeep.pdf %})
+- [Arbitrum Feeds]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/arbitrum-feeds.pdf %})
+- [Flight Aware]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/flight-aware.pdf %})
 
 ### OMG Network (2020)
 [OMG Network](https://omg.network) is a trustless, non-custodial, Layer-2 scaling solution for transferring value on Ethereum. Its products allow you to access, manage, and transact with digital assets that are kept securely on the blockchain.
