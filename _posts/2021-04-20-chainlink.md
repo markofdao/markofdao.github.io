@@ -6,7 +6,7 @@ layout: post
 tags: [crypto, blockchain]
 ---
 
-Chainlink is one of those fundamental projects that I can't just stop talking about. This post will be an ongoing proof of that. People tend to like my communication style, which is why I'll keep posting. Below you can see some of the Tweetstorms I produced to describe this amazing technology:
+Chainlink is one of those fundamental projects that I can't just stop talking about. Below you can see some of the Tweetstorms I produced to describe this amazing technology:
 
 - [What is Chainlink?](https://twitter.com/dmitrydao/status/1353850962734166016)
 - [Chainlink and NFTs](https://twitter.com/dmitrydao/status/1349765189072248837)

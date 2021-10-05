@@ -34,7 +34,7 @@ This is a list of my best work from companies I've worked with. It includes tech
 - [Make an Existing Job Request]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/job-requests.pdf %})
 - [Register Keeper Upkeep for a Contract]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/register-upkeep.pdf %})
 - [Arbitrum Feeds]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/arbitrum-feeds.pdf %})
-- [Flight Aware]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/flight-aware.pdf %})
+- [Flight Aware Data Provider]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/flight-aware.pdf %})
 
 ### OMG Network (2020)
 [OMG Network](https://omg.network) is a trustless, non-custodial, Layer-2 scaling solution for transferring value on Ethereum. Its products allow you to access, manage, and transact with digital assets that are kept securely on the blockchain.
