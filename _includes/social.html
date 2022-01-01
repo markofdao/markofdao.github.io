@@ -137,4 +137,9 @@
     <a class="black-link" href="{{ 'feed.xml' | relative_url }}">[RSS]</a>
   </li>
   {%- endif -%}
+  {%- if social.portfolio -%}
+  <li>
+    <a class="black-link" href="{{ 'portfolio' | relative_url }}">[Portfolio]</a>
+  </li>
+  {%- endif -%}
 </ul>

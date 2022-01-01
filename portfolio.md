@@ -96,11 +96,13 @@ As a part of the Paytomat team, I helped increase audience engagement by creatin
 - [Paytomat adds Zigzag dapp into Paytomat Wallet]({{ site.baseurl }}{% link /assets/files/portfolio/paytomat/announcements/wallet-update.pdf %})
 
 ## Skills
+- Technical writing.
 - Content writing and copywriting.
 - Product testing and presentation on public (conferences, meetups, etc.)
+- Ability to read and write basic Solidity smart contracts.
 - Build web apps with VueJS or React.
 - Basic DevOps skills (server setup and maintenance).
-- Work with static site generators: Jekyll, Docusaurus.
+- Work with static site generators: Jekyll, Eleventy, Docusaurus.
 - Purchase domains, publish blogs and websites to hosting providers.
 
 ## Awards & Achievements
@@ -109,5 +111,3 @@ As a part of the Paytomat team, I helped increase audience engagement by creatin
 - **[National Register of Records](http://www.rekord.ua/)**, participant of [the record](https://twitter.com/dmitrydao/status/999978715634429953/photo/1) (Kyiv, 2018).
 - [**Google Design Sprint**](https://www.gv.com/sprint/), participant (Kyiv, 2017).
 - **[Dash DAO](https://app.dashnexus.org/)**, the first Ukrainian to get funding (Ukraine, 2016).
-- Lived in Asia for 1 year.
-- Work remotely since 2019.
