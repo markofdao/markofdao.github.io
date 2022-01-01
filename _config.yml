@@ -17,7 +17,7 @@ moving:
   social_links:
     twitter: dmitrydao 
     github: dmitrydao
-    rss: RSS 
+    portfolio: true 
 
 # production github-pages
 remote_theme: huangyz0918/moving
