@@ -20,10 +20,10 @@ moving:
     portfolio: true 
 
 # production github-pages
-# remote_theme: huangyz0918/moving
+remote_theme: huangyz0918/moving
 
 # local testing
-theme: moving
+# theme: moving
 
 plugins:
   - jekyll-feed
