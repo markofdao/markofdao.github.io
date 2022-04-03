@@ -18,11 +18,11 @@ For the last couple of years, I've been working remotely and prefer such a form 
 You can find most of my work on Github:
 
 ```
-https://github.com/dmitrydao
+https://github.com/markofdao
 ```
 
 ## Projects
-This is a list of my best work from companies I've worked with. It includes technical writing and front-end development samples. All of the files provided below are listed on my [GitHub](https://github.com/dmitrydao/dmitrydao.github.io/tree/master/assets/files/portfolio).
+This is a list of my best work from companies I've worked with. It includes technical writing and front-end development samples. All of the files provided below are listed on my [GitHub](https://github.com/markofdao/markofdao.github.io/tree/master/assets/files/portfolio).
 
 ### Chainlink (2021)
 [Chainlink](https://chain.link) is a decentralized oracle network that provides reliable, tamper-proof inputs and outputs for complex smart contracts on any blockchain. Chainlink greatly expands smart contracts' capability by enabling access to real-world data, events, payments, and more without sacrificing the security and reliability guarantees inherent to blockchain technology.
@@ -62,8 +62,8 @@ As a part of the OMG Network team, I maintained React-based [dev portal](https:/
 [Hive](https://hive.io) is an innovative and forward-looking decentralized blockchain and ecosystem designed to scale with the widespread adoption of the currency and platforms in mind. Hive is a community-based project that was forked from the [Steem blockchain](https://steem.com).
 
 As a part of the community, I run a Hive validator node ([witness](https://peakd.com/witnesses)) to secure the network. The most significant contributions include the following apps:
-- [Hive Apps DB](https://github.com/dmitrydao/hive-apps-explorer) - a blockchain explorer for Hive-based apps.
-- [Hived Scan](https://github.com/dmitrydao/hivedscan) - budgeting and governance system for Hive, aka DAO.
+- [Hive Apps DB](https://github.com/markofdao/hive-apps-explorer) - a blockchain explorer for Hive-based apps.
+- [Hived Scan](https://github.com/markofdao/hivedscan) - budgeting and governance system for Hive, aka DAO.
 
 ### Paytomat (2017-2019)
 [Paytomat](https://paytomat.com/en) is a set of blockchain software solutions that helps merchants accept cryptocurrencies in cafes, restaurants, beauty salons, etc. The core product integrates into existing point-of-sale systems or offers a standalone solution without purchasing additional hardware.
@@ -108,6 +108,6 @@ As a part of the Paytomat team, I helped increase audience engagement by creatin
 ## Awards & Achievements
 - **[The Great Reddit Scaling Bake-Off](https://www.reddit.com/r/ethereum/comments/hbjx25/the_great_reddit_scaling_bakeoff/)**, participant (remote, 2020).
 - **[MaGiC GAP](https://mymagic.my/gap)**, participant (Cyberjaya, 2019).
-- **[National Register of Records](http://www.rekord.ua/)**, participant of [the record](https://twitter.com/dmitrydao/status/999978715634429953/photo/1) (Kyiv, 2018).
+- **[National Register of Records](http://www.rekord.ua/)**, participant of [the record](https://twitter.com/markofdao/status/999978715634429953/photo/1) (Kyiv, 2018).
 - [**Google Design Sprint**](https://www.gv.com/sprint/), participant (Kyiv, 2017).
 - **[Dash DAO](https://app.dashnexus.org/)**, the first Ukrainian to get funding (Ukraine, 2016).

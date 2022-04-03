@@ -8,12 +8,12 @@ tags: [crypto, blockchain]
 
 Chainlink is one of those fundamental projects that I can't just stop talking about. Below you can see some of the Tweetstorms I produced to describe this amazing technology:
 
-- [What is Chainlink?](https://twitter.com/dmitrydao/status/1353850962734166016)
-- [Chainlink and NFTs](https://twitter.com/dmitrydao/status/1349765189072248837)
-- [Proof of Reserve](https://twitter.com/dmitrydao/status/1351879347641180160)
-- [Secure Oracle Notification System](https://twitter.com/dmitrydao/status/1358093120227966976)
-- [Chainlink Node Installation](https://twitter.com/dmitrydao/status/1354199414114578439)
-- [Premium Quality Data](https://twitter.com/dmitrydao/status/1364618401616957440)
+- [What is Chainlink?](https://twitter.com/markofdao/status/1353850962734166016)
+- [Chainlink and NFTs](https://twitter.com/markofdao/status/1349765189072248837)
+- [Proof of Reserve](https://twitter.com/markofdao/status/1351879347641180160)
+- [Secure Oracle Notification System](https://twitter.com/markofdao/status/1358093120227966976)
+- [Chainlink Node Installation](https://twitter.com/markofdao/status/1354199414114578439)
+- [Premium Quality Data](https://twitter.com/markofdao/status/1364618401616957440)
 
 <!--truncate-->
 
