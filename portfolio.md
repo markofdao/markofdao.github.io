@@ -24,6 +24,13 @@ https://github.com/markofdao
 ## Projects
 This is a list of my best work from companies I've worked with. It includes technical writing and front-end development samples. All of the files provided below are listed on my [GitHub](https://github.com/markofdao/markofdao.github.io/tree/master/assets/files/portfolio).
 
+### Seamless (2022)
+[Seamless](https://twitter.com/seamlessguild) is a micro play & earn guild aimed to help players create extra income while having fun. This is my personal project that I manage.
+
+#### Tutorials
+- [A Complete Security Guide for Play-to-Earn Scholars]({{ site.baseurl }}{% link /assets/files/portfolio/seamless/tutorials/security-for-p2e.pdf %})
+- [The Ultimate MetaMask Guide for Play-to-Earn Scholars]({{ site.baseurl }}{% link /assets/files/portfolio/seamless/tutorials/metamask-for-p2e.pdf %})
+
 ### Chainlink (2021)
 [Chainlink](https://chain.link) is a decentralized oracle network that provides reliable, tamper-proof inputs and outputs for complex smart contracts on any blockchain. Chainlink greatly expands smart contracts' capability by enabling access to real-world data, events, payments, and more without sacrificing the security and reliability guarantees inherent to blockchain technology.
 
