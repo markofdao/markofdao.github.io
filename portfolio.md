@@ -25,7 +25,7 @@ https://github.com/markofdao
 This is a list of my best work from companies I've worked with. It includes technical writing and front-end development samples. All of the files provided below are listed on my [GitHub](https://github.com/markofdao/markofdao.github.io/tree/master/assets/files/portfolio).
 
 ### Seamless (2022)
-[Seamless](https://twitter.com/seamlessguild) is a micro play & earn guild aimed to help players create extra income while having fun. This is my personal project that I manage.
+[Seamless](https://twitter.com/seamlessguild) is a micro play & earn guild aimed to help gamers create extra income while having fun. It's a personal project I manage on the side.
 
 #### Tutorials
 - [A Complete Security Guide for Play-to-Earn Scholars]({{ site.baseurl }}{% link /assets/files/portfolio/seamless/tutorials/security-for-p2e.pdf %})
@@ -34,14 +34,17 @@ This is a list of my best work from companies I've worked with. It includes tech
 ### Chainlink (2021)
 [Chainlink](https://chain.link) is a decentralized oracle network that provides reliable, tamper-proof inputs and outputs for complex smart contracts on any blockchain. Chainlink greatly expands smart contracts' capability by enabling access to real-world data, events, payments, and more without sacrificing the security and reliability guarantees inherent to blockchain technology.
 
+#### Code Samples
+- [The Graph Queries](https://github.com/markofdao/graph-chainlink)
+- [VRF Best Practices]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/vrf-best.pdf %})
+- [Make an Existing Job Request]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/job-requests.pdf %})
+- [Flight Aware Data Provider]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/flight-aware.pdf %})
+
 #### Tutorials
 - [API Calls Tutorial]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/api-calls.pdf %})
-- [VRF Best Practices]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/vrf-best.pdf %})
-- [L2 Sequencer Health Flag]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/health-flag.pdf %})
-- [Make an Existing Job Request]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/job-requests.pdf %})
 - [Register Keeper Upkeep for a Contract]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/register-upkeep.pdf %})
 - [Arbitrum Feeds]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/arbitrum-feeds.pdf %})
-- [Flight Aware Data Provider]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/flight-aware.pdf %})
+- [L2 Sequencer Health Flag]({{ site.baseurl }}{% link /assets/files/portfolio/chainlink/tutorials/health-flag.pdf %})
 
 ### OMG Network (2020)
 [OMG Network](https://omg.network) is a trustless, non-custodial, Layer-2 scaling solution for transferring value on Ethereum. Its products allow you to access, manage, and transact with digital assets that are kept securely on the blockchain.
@@ -61,7 +64,11 @@ As a part of the OMG Network team, I maintained React-based [dev portal](https:/
 - [Community Points Engine]({{ site.baseurl }}{% link /assets/files/portfolio/omg_network/tutorials/community-points.pdf %})
 - [Exchange Use Case]({{ site.baseurl }}{% link /assets/files/portfolio/omg_network/tutorials/exchange-use-case.pdf %})
 - [Wallet Use Case]({{ site.baseurl }}{% link /assets/files/portfolio/omg_network/tutorials/wallet-use-case.pdf %})
+- [Developer Portals Research](/dev-portals-research)
+- [How to Manage a VPS](/manage-vps)
 - [How to Run a Watcher]({{ site.baseurl }}{% link /assets/files/portfolio/omg_network/tutorials/run-watcher.pdf %})
+
+#### User Guides
 - [Web Wallet Quick Start]({{ site.baseurl }}{% link /assets/files/portfolio/omg_network/tutorials/web-wallet.pdf %})
 - [MultiBaas by Curvegrid]({{ site.baseurl }}{% link /assets/files/portfolio/omg_network/tutorials/multibaas.pdf %})
 
@@ -84,7 +91,7 @@ As a part of the Paytomat team, I helped increase audience engagement by creatin
 - [Cryptobento Whitepaper]({{ site.baseurl }}{% link /assets/files/portfolio/paytomat/whitepapers/cryptobento.pdf %})
 - [Paytomat Whitepaper 2.0]({{ site.baseurl }}{% link /assets/files/portfolio/paytomat/whitepapers/paytomat-2.0.pdf %})
 
-#### Guides
+#### User Guides
 - [An instruction for Binance Dex trading in Paytomat Wallet]({{ site.baseurl }}{% link /assets/files/portfolio/paytomat/guides/binance-dex-trading.pdf %})
 - [Under the Hood of Paytomat Smart Contracts]({{ site.baseurl }}{% link /assets/files/portfolio/paytomat/guides/contracts-under-the-hood.pdf %})
 - [EOS Dapps Marketplace and How to use it]({{ site.baseurl }}{% link /assets/files/portfolio/paytomat/guides/eos-dapps-marketplace.pdf %})
@@ -102,19 +109,24 @@ As a part of the Paytomat team, I helped increase audience engagement by creatin
 - [Paytomat Wallet Update: EOS dapps, Tezos support, and other improvements]({{ site.baseurl }}{% link /assets/files/portfolio/paytomat/announcements/zigzag.pdf %})
 - [Paytomat adds Zigzag dapp into Paytomat Wallet]({{ site.baseurl }}{% link /assets/files/portfolio/paytomat/announcements/wallet-update.pdf %})
 
+### Dash (2016-2017)
+[Dash](https://www.dash.org/) is a next generation, p2p payments network and cryptocurrency where transactions are recorded on the blockchain: a decentralized, distributed, public ledger. It provides users with a digital currency that is secure, portable, and fungible.
+
+As a contributor to the Dash DAO, I organized meetups and events across the country to help explain how Dash and blockchain technology works. Additionally, I helped integrate Dash and other cryptocurrencies as a payment method with local and global Point-of-Sale providers (1C, Poster, NCR, etc).
+
 ## Skills
-- Technical writing.
-- Content writing and copywriting.
-- Product testing and presentation on public (conferences, meetups, etc.)
-- Ability to read and write basic Solidity smart contracts.
-- Build web apps with VueJS or React.
-- Basic DevOps skills (server setup and maintenance).
-- Work with static site generators: Jekyll, Eleventy, Docusaurus.
-- Purchase domains, publish blogs and websites to hosting providers.
+- Technical writing
+- Content writing and copywriting
+- Blockchain product testing and presentation on public (conferences, meetups, etc.)
+- Ability to read and write basic Solidity smart contracts
+- Build web apps with React
+- Basic DevOps skills (server setup and maintenance)
+- Work with static site generators: Jekyll, Eleventy, Docusaurus
+- Purchase domains, publish blogs and websites to hosting providers
 
 ## Awards & Achievements
 - **[The Great Reddit Scaling Bake-Off](https://www.reddit.com/r/ethereum/comments/hbjx25/the_great_reddit_scaling_bakeoff/)**, participant (remote, 2020).
 - **[MaGiC GAP](https://mymagic.my/gap)**, participant (Cyberjaya, 2019).
 - **[National Register of Records](http://www.rekord.ua/)**, participant of [the record](https://twitter.com/markofdao/status/999978715634429953/photo/1) (Kyiv, 2018).
 - [**Google Design Sprint**](https://www.gv.com/sprint/), participant (Kyiv, 2017).
-- **[Dash DAO](https://app.dashnexus.org/)**, the first Ukrainian to get funding (Ukraine, 2016).
+- **[Dash DAO](https://www.dashcentral.org/budget)**, the first Ukrainian to get a grant (Ukraine, 2016).
