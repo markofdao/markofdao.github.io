@@ -24,8 +24,11 @@ https://github.com/markofdao
 ## Projects
 This is a list of my best work from companies I've worked with. It includes technical writing and front-end development samples. All of the files provided below are listed on my [GitHub](https://github.com/markofdao/markofdao.github.io/tree/master/assets/files/portfolio).
 
+### Myria (2022)
+[Myria](https://myria.com/) is a comprehensive blockchain gaming platform. It provides everything required to build a decentralized, scalable and secure digital asset and blockchain gaming platform.
+
 ### Seamless (2022)
-[Seamless](https://twitter.com/seamlessguild) is a micro play & earn guild aimed to help gamers create extra income while having fun. It's a personal project I manage on the side.
+[Seamless](https://seamlessguild.substack.com) is a micro play & earn guild aimed to help gamers create extra income while having fun. It's a personal project I manage on the side.
 
 #### Tutorials
 - [A Complete Security Guide for Play-to-Earn Scholars]({{ site.baseurl }}{% link /assets/files/portfolio/seamless/tutorials/security-for-p2e.pdf %})
