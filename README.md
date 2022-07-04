@@ -1,6 +1,6 @@
 ## Overview
 
-Blog of Dmitry Baimuratov
+Blog of Dmytro Baimuratov
 
 ## Installation
 
